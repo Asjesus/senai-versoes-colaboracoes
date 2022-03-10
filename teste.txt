@@ -1,1 +1,2 @@
 texto de teste 
+Segunda parte da funcionalidade 
